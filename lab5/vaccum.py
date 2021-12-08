@@ -37,4 +37,3 @@ floor = [[1, 0, 0, 0],
 clean(floor)
 
 
-clean(floor)
